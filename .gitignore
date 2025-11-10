@@ -1,0 +1,25 @@
+# Project-specific
+data/
+models/
+hello.py
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# DBs & artifacts
+*.db
+*.sqlite3
+
+# Virtual envs
+.env
+.venv
+env/
+venv/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
