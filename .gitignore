@@ -1,6 +1,6 @@
 # Project-specific
 data/
-models/
+# models/
 hello.py
 
 # Python cache & build
